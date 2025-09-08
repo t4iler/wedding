@@ -1,6 +1,6 @@
-const weddingDate = new Date('2025-08-06T00:00:00');
-weddingDate.setMonth(9);
-weddingDate.setDate(13);
+const weddingDate = new Date('2025-11-13T00:00:00');
+// weddingDate.setMonth(9);
+// weddingDate.setDate(13);
 
 function updateCountdown() {
 	const now = new Date()
